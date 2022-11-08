@@ -1,0 +1,8 @@
+C:/Project/helloworld/build/CMakeFiles/helloworld_cli.dir
+C:/Project/helloworld/build/CMakeFiles/helloworld.dir
+C:/Project/helloworld/build/CMakeFiles/test_version.dir
+C:/Project/helloworld/build/CMakeFiles/PACKAGE.dir
+C:/Project/helloworld/build/CMakeFiles/RUN_TESTS.dir
+C:/Project/helloworld/build/CMakeFiles/INSTALL.dir
+C:/Project/helloworld/build/CMakeFiles/ALL_BUILD.dir
+C:/Project/helloworld/build/CMakeFiles/ZERO_CHECK.dir
